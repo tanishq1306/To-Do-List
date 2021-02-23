@@ -3,7 +3,10 @@
 
 ## Desciption
 
-Android Notes App built with **Room Database & Android Architecture Components (Android ViewModel, LiveData Architecture components).**
+A simple Notes Taking App which you can use to list your daily notes and tasks. 
+
+## Features
+**Simple UI** built with **Room Database & Android Architecture Components (Android ViewModel, LiveData Architecture components).**
 
 -----------------------
 
